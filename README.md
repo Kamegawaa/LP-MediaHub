@@ -1,0 +1,1 @@
+https://mountinfos.netlify.app
