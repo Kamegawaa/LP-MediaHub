@@ -16,5 +16,20 @@ MídiaHub é uma plataforma desenvolvida para atender às necessidades de um inf
 
 ## Demonstração
 
-Caso deseje ver uma prévia do projeto ou contribuir com melhorias, entre em contato ou explore os repositórios associados.
+Demo da aplicação do website: [https://www.mount](https://mountinfos.netlify.app/)
 
+
+### Here’s a concise English summary for the MídiaHub project:
+
+MídiaHub
+MídiaHub is a platform designed to meet the needs of influencers by organizing and sharing information about live streams and centralizing links to their social media profiles.
+
+Features
+Informational: Displays stream details, including schedules and topics.
+Link Hub: Centralizes the influencer's social media links for easy access.
+Technologies Used
+HTML: For page structuring.
+CSS: For styling and responsive design.
+JavaScript: For dynamic functionality and interactivity.
+Figma: For prototyping and visual design.
+Demo: [https://www.mount](https://mountinfos.netlify.app/)
